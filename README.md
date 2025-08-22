@@ -13,7 +13,7 @@ Es un juego de consola donde el jugador debe escapar de una estación espacial r
 1. Clonar el repositorio:
    ```bash
    git clone https://github.com/sa1xs/escape-estacion-espacial.git
-   cd escape-estacion-espacial ```
+   cd escape-estacion-espacial
 2. Compilar el archivo Java:
     javac EscapeEstacionEspacial.java
 3. Ejecutar el juego: 
