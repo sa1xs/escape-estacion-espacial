@@ -9,14 +9,15 @@ Es un juego de consola donde el jugador debe escapar de una estación espacial r
 - Keylin Castillo Barquero  
 
 ## Cómo ejecutar el juego
-
 1. Clonar el repositorio:
    ```bash
    git clone https://github.com/sa1xs/escape-estacion-espacial.git
    cd escape-estacion-espacial
 2. Compilar el archivo Java:
+   ```bash
     javac EscapeEstacionEspacial.java
-3. Ejecutar el juego: 
+4. Ejecutar el juego:
+    ```bash
     java EscapeEstacionEspacial
 
 ## Características
