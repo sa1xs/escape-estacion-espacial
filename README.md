@@ -6,23 +6,16 @@ Es un juego de consola donde el jugador debe escapar de una estación espacial r
 ## Integrantes
 - Jose Arturo Gutierrez Murillo  
 - Sebastian Salas Hernandez  
-- Keylin Castillo Barquero
+- Keylin Castillo Barquero  
 
-  ## Requisitos
-- Java 21 o superior
+## Requisitos
+- Java 21 o superior [Descargar aquí](adoptium.net/temurin/releases)
 
-
-## Cómo ejecutar el juego
-1. Clonar el repositorio:
+### Descargar el `.jar` listo (recomendado) 
+1. Descarga el archivo `EscapeEstacionEspacial.jar`.  
+2. Ejecútalo con:
    ```bash
-   git clone https://github.com/sa1xs/escape-estacion-espacial.git
-   cd escape-estacion-espacial
-2. Compilar el archivo Java:
-   ```bash
-    javac EscapeEstacionEspacial.java
-4. Ejecutar el juego:
-    ```bash
-    java EscapeEstacionEspacial
+   java -jar EscapeEstacionEspacial.jar
 
 ## Características
 - Mapa interactivo de la estación espacial.  
