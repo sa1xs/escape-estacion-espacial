@@ -9,7 +9,9 @@ Es un juego de consola donde el jugador debe escapar de una estación espacial r
 - Keylin Castillo Barquero  
 
 ## Requisitos
-- Java 21 o superior [Descargar aquí](adoptium.net/temurin/releases)
+- Java 21 o superior
+  ```
+  adoptium.net/temurin/releases
 
 ### Descargar el `.jar` listo (recomendado) 
 1. Descarga el archivo `EscapeEstacionEspacial.jar`.  
