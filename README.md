@@ -6,7 +6,11 @@ Es un juego de consola donde el jugador debe escapar de una estación espacial r
 ## Integrantes
 - Jose Arturo Gutierrez Murillo  
 - Sebastian Salas Hernandez  
-- Keylin Castillo Barquero  
+- Keylin Castillo Barquero
+
+  ## Requisitos
+- Java 21 o superior
+
 
 ## Cómo ejecutar el juego
 1. Clonar el repositorio:
