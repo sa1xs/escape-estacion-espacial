@@ -5,7 +5,6 @@ Es un juego de consola donde el jugador debe escapar de una estación espacial r
 
 ## Requisitos
 - Java 21 o superior
-  ```
 
 ## Características
 - Mapa interactivo de la estación espacial.  
