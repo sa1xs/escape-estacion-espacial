@@ -3,21 +3,9 @@
 Proyecto final de programación en **Java**.  
 Es un juego de consola donde el jugador debe escapar de una estación espacial resolviendo acertijos y completando desafíos.
 
-## Integrantes
-- Jose Arturo Gutierrez Murillo  
-- Sebastian Salas Hernandez  
-- Keylin Castillo Barquero  
-
 ## Requisitos
 - Java 21 o superior
   ```
-  adoptium.net/temurin/releases
-
-### Descargar el `.jar` listo (recomendado) 
-1. Descarga el archivo `EscapeEstacionEspacial.jar`.  
-2. Ejecútalo con:
-   ```bash
-   java -jar EscapeEstacionEspacial.jar
 
 ## Características
 - Mapa interactivo de la estación espacial.  
