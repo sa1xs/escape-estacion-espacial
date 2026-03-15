@@ -4,7 +4,9 @@ Proyecto final de programación en **Java**.
 Es un juego de consola donde el jugador debe escapar de una estación espacial resolviendo acertijos y completando desafíos.
 
 ## Requisitos
-- Java 21 o superior
+- Java 21 o superior 
+- draw.io (Para los diagramas de flujo)
+- Excel (Para tablas de variables y casos de prueba)
 
 ## Características
 - Mapa interactivo de la estación espacial.  
