@@ -12,9 +12,13 @@ Es un juego de consola donde el jugador debe escapar de una estación espacial r
 - Mapa interactivo de la estación espacial.  
 - Sistema de turnos y golpes acumulados.  
 - Varias habitaciones con acertijos y desafíos.  
-- Diferentes finales según las decisiones del jugador.  
+- Diferentes finales según las decisiones del jugador.
+
+## Cómo ejecutar
+
+1. Clonar el repositorio
+2. Compilar: `javac EscapeEstacionEspacial.java`
+3. Ejecutar: `java EscapeEstacionEspacial`
 
 ## Licencia
 Este proyecto está bajo la licencia **MIT**.
-
-
